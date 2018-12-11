@@ -1,0 +1,9 @@
+version: 0.0.0
+files:
+  - url: anirec-setup-0.0.0.exe
+    sha512: f4k8bv91UYLazIIDF8D/B416g/KXnDbLNften6+eZk1ERlXCRxeRw6CpWm510AS1RPq9ROzG1G1g/6qNgn6idw==
+    size: 43612482
+path: anirec-setup-0.0.0.exe
+sha512: f4k8bv91UYLazIIDF8D/B416g/KXnDbLNften6+eZk1ERlXCRxeRw6CpWm510AS1RPq9ROzG1G1g/6qNgn6idw==
+sha2: f96f8560e03da1701ed606e1d00f814b80d84542a4814d028b3fcf6ecd9531f0
+releaseDate: '2018-12-11T10:13:29.400Z'
