@@ -1,0 +1,16 @@
+{
+  "vetur.format.defaultFormatter.js": "vscode-typescript",
+  "vetur.format.defaultFormatter.ts": "vscode-typescript",
+
+  "beautify.language": {
+    "js": {
+      "type": ["javascript", "json"],
+      "filename": [".jshintrc", ".jsbeautify"]
+    },
+    "css": ["css", "scss"],
+    "html": {
+      "type": ["html"],
+      "ext": ["vue"]
+    }
+  }
+}
